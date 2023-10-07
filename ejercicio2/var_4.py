@@ -20,6 +20,6 @@ x = symbols('x')
 #esto se pone asi siempre, 0 y 15 es el intervalo en el que queramos que se plotee
 p = plot(f1, f2, f3, f4, Z1, (x, 0, 15))
 
-p.save('ejercicio2/dibujos/dibujo_general.png')
+p.save('ejercicio2/dibujos/dibujo_4.png')
 
 # d = 10

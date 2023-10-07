@@ -8,6 +8,7 @@ from sympy.plotting import plot
 f1 = "10-x" #<=
 f2 = "1+x"
 f3 = "x-1"
+#consideramos que como quiere ser un troll, no quiere divertirse, por lo que la diversion es 0
 f4= "0"
 #las z son las funciones objetivo, despejamos la diversion y damos los valores que queramos a la z
 Z1 = "(10-x)/2"
